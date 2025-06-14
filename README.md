@@ -2,7 +2,7 @@
 
 ## TransportathonHackathon Bir Uluslararası Taşımacılık Uygulamasıdır
 
-### BİLGİLENDİRME
+### BİLGİLENDİRME 
 
 - <b> Bu proje, BEŞİR FATİH DAĞ ve İSMAİL KAYGISIZ tarafından geliştirilmiştir.</b>
 
